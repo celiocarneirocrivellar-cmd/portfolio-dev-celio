@@ -1,6 +1,10 @@
 # portfolio-dev-celio
 
 # 👨‍💻 Célio Rezende Carneiro Crivellar
+![HTML5](https://img.shields.io/badge/HTML5-Developer-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![React](https://img.shields.io/badge/React-Learning-blue)
 
 ## 🚀 Desenvolvedor Web em Formação
 
